@@ -1,0 +1,85 @@
+.app-subs-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+  padding: auto;
+  margin-top: 5px;
+  margin-left: 35px;
+  margin-right: 5px;
+}
+
+.logo-subs-img-cont {
+  width: auto;
+  height: auto;
+  padding: auto;
+  margin: auto;
+}
+
+.app-subs-logog-img {
+  width: 50%;
+  height: auto;
+  padding: auto;
+  margin: auto;
+}
+
+.app-subs-con {
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: auto;
+  margin-top: 15px;
+  width: 50%;
+  height: 100%;
+  background-color: yellow;
+  padding: 15px;
+  border-top-left-radius: 45px;
+  border-bottom-right-radius: 45px;
+  border-color: blue;
+  border-width: 3px;
+  border-style: solid;
+}
+
+.subs-cont {
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  padding: auto;
+  margin: auto;
+  text-align: left;
+  width: 50%;
+  height: 100%;
+  background-color: burlywood;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border-radius: 3px;
+  border: 2px solid white;
+}
+
+input {
+  background-color: lightblue;
+  border-radius: 5px;
+  color: blacks;
+}
+
+.subscribe-para {
+  color: blue;
+  text-align: center;
+}
+
+.subscribe-heading {
+  color: red;
+  text-align: center;
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+  padding: auto;
+  padding-top: 5px;
+}
