@@ -1,0 +1,12 @@
+.high-sale-box {
+  padding: 3px;
+  margin: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.high-sale-img {
+  width: 50%;
+  height: 50%;
+}
