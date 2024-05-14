@@ -1,0 +1,22 @@
+.near-places-container {
+  border: 5px red solid;
+  text-align: center;
+  width: 200px;
+  background-color: azure;
+  border-radius: 50px;
+}
+
+.top-name {
+  font-size: 25px;
+  color: darkblue !important;
+}
+
+.middle-name {
+  font-size: 15px;
+  color: red !important;
+}
+
+.bottom-name {
+  font-size: 10px;
+  color: blue !important;
+}
