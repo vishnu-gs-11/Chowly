@@ -1,0 +1,48 @@
+.header-cont {
+  display: flex;
+  flex-direction: row;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.header-img {
+  width: 1px;
+  height: 1px;
+}
+
+.nav-tag-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 5px;
+  margin: 5px;
+}
+
+.img-container {
+  width: 50%;
+  height: 80%;
+  padding: auto;
+  margin: auto;
+}
+
+.header-img {
+  width: 30%;
+  height: 30%;
+  padding-left: 10px;
+  margin-left: 15px;
+  margin: 5px;
+}
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 5px;
+  margin-right: 15px;
+  margin: auto;
+}
+
+.nav-para {
+  padding: 5px;
+  margin: 5px;
+  flex-wrap: wrap;
+}
