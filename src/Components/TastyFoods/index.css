@@ -1,0 +1,35 @@
+.tasty-img {
+  width: 150px;
+  height: 100px;
+  border-radius: 5px;
+}
+
+.tasty-img-container {
+  padding: auto;
+  margin: auto;
+}
+
+.tasty-detalis {
+  padding: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.tasty-container {
+  border: 2px solid skyblue;
+  margin: auto;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.top-name {
+  font-size: 25px;
+}
+
+.middle-name {
+  font-size: 15px;
+}
+
+.bottom-name {
+  font-size: 10px;
+}
