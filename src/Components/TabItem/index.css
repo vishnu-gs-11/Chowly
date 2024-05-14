@@ -1,0 +1,19 @@
+.nav-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: auto;
+  margin: auto;
+  color: darkblue;
+}
+
+.icon-img {
+  display: inline;
+  width: 20px;
+}
+
+.nav-para {
+  margin: 5px;
+  padding: 5px;
+}
