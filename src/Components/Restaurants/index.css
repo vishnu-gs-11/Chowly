@@ -1,0 +1,24 @@
+.restaurant-container {
+  border: 2px solid black;
+  box-shadow: 0 2px 3px grey;
+  text-align: center;
+  width: 250px;
+  border-radius: 5px;
+  margin: 2px;
+  padding: 3px;
+  background-size: cover;
+  flex-wrap: wrap;
+  background-color: chartreuse;
+}
+
+.top-name {
+  font-size: 25px;
+}
+
+.middle-name {
+  font-size: 15px;
+}
+
+.bottom-name {
+  font-size: 10px;
+}
